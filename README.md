@@ -46,7 +46,7 @@ new UI library into the existing project, aligning with project requirements and
 
 ## 🌐 Connect with Me
 
-- **My Personal WebSite:** [Visit](https://abasturabli.com)
+- **My Personal WebSite:** [abasturabli.com](https://abasturabli.com)
 - **Email:** [me@abasturabli.com](mailto:me@abasturabli.com)
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/turabli/)
 - **GitHub:** [Your GitHub Profile](https://github.com/devabas)
